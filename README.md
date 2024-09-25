@@ -1,6 +1,6 @@
 
 # Payment Contracts
-===================
+
 This repository contains two Solidity contracts designed to facilitate payment orders between creditors and debtors using ERC-20 tokens. The contracts allow creditors to create payment orders and enable debtors to pay those orders securely.
 
 ## Contracts Overview
